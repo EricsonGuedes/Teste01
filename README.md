@@ -5,3 +5,5 @@
 #Arquivo Secundário
 
 ##Comando git push
+
+##Comando git pull
