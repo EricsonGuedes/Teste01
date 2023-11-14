@@ -1,5 +1,7 @@
 ##Gravando arquivos no git
 
-Adicionando linhas 
+##Adicionando linhas 
 
 #Arquivo Secundário
+
+##Comando git push
